@@ -1,7 +1,6 @@
 # EasyLauncher
 
-Launcher example. Wery tiny launcher for two slow devices.
+Launcher example. Very tiny launcher for two slow devices.
 
-At project just **one** class at 160 rows ;)
-
+At project just one class at 160 rows ;)
 
